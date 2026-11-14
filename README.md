@@ -4,6 +4,9 @@
 
 🌐 **Live Demo:** https://leaf-and-bloom.vercel.app
 
+## 🖥️ Homepage Preview
+
+![Leaf & Bloom Homepage](leaf-bloom-homepage.png)
 
 ### Your Personal Plant Shopping & Care Platform
 
