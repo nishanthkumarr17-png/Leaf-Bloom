@@ -1,6 +1,10 @@
 
 # 🌿 Leaf & Bloom
 
+
+🌐 **Live Demo:** https://leaf-and-bloom.vercel.app
+
+
 ### Your Personal Plant Shopping & Care Platform
 
 ## 🚧 Project Status
