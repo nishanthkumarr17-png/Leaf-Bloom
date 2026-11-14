@@ -14,6 +14,14 @@
 ![Leaf & Bloom Plant Listing](leaf-bloom-plants.png)
 
 
+
+## 🤖 AI Plant Assistant
+
+Explore the AI-powered plant assistant designed to help users with plant-related questions and guidance.
+
+![Leaf & Bloom AI Assistant](leaf-bloom-ai-assistant.png)
+
+
 ### Your Personal Plant Shopping & Care Platform
 
 ## 🚧 Project Status
