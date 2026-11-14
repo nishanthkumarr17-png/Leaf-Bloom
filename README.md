@@ -3,6 +3,12 @@
 
 ### Your Personal Plant Shopping & Care Platform
 
+## 🚧 Project Status
+
+**Currently in Development**
+
+New features, improvements and testing are ongoing.
+
 ## 📌 About the Project
 
 Leaf & Bloom is a plant e-commerce platform designed to help users discover, explore and purchase plants while learning how to care for them.
