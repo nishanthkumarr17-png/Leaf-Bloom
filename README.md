@@ -8,6 +8,12 @@
 
 ![Leaf & Bloom Homepage](leaf-bloom-homepage.png)
 
+
+## 🌱 Plant Listing Page
+
+![Leaf & Bloom Plant Listing](leaf-bloom-plants.png)
+
+
 ### Your Personal Plant Shopping & Care Platform
 
 ## 🚧 Project Status
